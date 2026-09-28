@@ -1,0 +1,12 @@
+[package]
+name = "zqoc/velumi"
+description = "A compact, developer-tool styled UI library for Roblox"
+version = "1.0.0"
+license = "MIT"
+authors = ["ZQ Interactive"]
+realm = "shared"
+registry = "https://github.com/UpliftGames/wally-index"
+repository = "https://github.com/zqoc/Velumi"
+include = ["src", "src/**", "default.project.json", "wally.toml", "README.md", "LICENSE"]
+
+[dependencies]
